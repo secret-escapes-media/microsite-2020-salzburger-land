@@ -1,0 +1,130 @@
+- id: one
+  title: Top-Destination für Wintersportler
+  count: "1"
+  nav-title: Wintersport
+  description: "Madeira bezaubert mit herrlich medi&shy;terranem Klima und einer facetten&shy;reichen Flora und Fauna, die so in Europa einzigartig ist. Dies wird begünstigt durch die Nähe zum Golfstrom, der das türkis&shy;blaue Meerwasser rund um die Insel auf angenehme Temperaturen erwärmt. Der vulkanische Ursprung der Insel sorgt zusätzlich für eine einzig&shy;artige Kulisse, die es auf geführten Wander&shy;touren zu erkunden&nbsp;gilt."
+  link: "#section-link"
+
+  pois:
+    items:
+
+      - id: one-first-poi
+        img: bg-img1
+        title: Grenzenloses Skivergnügen
+        description: "Madeira verzaubert ihre Besucher mit üppiger Natur und beeindruckender Landschaft. Zu den Haupt&shy;attraktionen der Insel gehört der Laurissilva. Dieser Lorbeer&shy;wald mit dichtem Moos und großen, alten Bäumen gehört zum UNESCO-Welt&shy;kultur&shy;erbe. Ein weiteres Highlight sind die populären Wande&shy;rungen an den sogenannten Levadas. Diese Bewässerungs&shy;kanäle wurden vor mehreren 100 Jahren geschaffen, um große Mengen Wasser aus dem regenreichen Norden Madeiras in den Süden zu leiten. Heute können Sie Wande&shy;rungen entlang der Kanäle unternehmen und entdecken auf Ihren Routen atem&shy;beraubende Naturkulissen."
+        link: "#poi-link"
+
+      - id: one-second-poi
+        img: bg-img2
+        title: Alternativer Wintersport
+        description: "Das Festival der Natur auf Madeira ist ein echtes Erlebnis für große und kleine Abenteuer&shy;lustige. Bei diesem Fest geht es darum, die traumhafte Natur zu entdecken und sich auf sportliche Heraus&shy;forder&shy;ungen einzulassen. Auf der gesamten Insel, zu Land, im Gebirge und im Wasser können Sie an den kostenlosen Aktivi&shy;täten teilnehmen. Von Moun&shy;tainbike-Touren bis Surfen oder Canyoning ist das sportliche Angebot breit gefächert, sodass für jeden etwas dabei ist. Sie müssen nur noch Ihre Wahl treffen und können mit anderen Natur&shy;begeisterten ein ganz besonderes Erlebnis teilen."
+        link: "#poi-link"
+
+      - id: one-third-poi
+        img: bg-img3
+        title: Winterwanderungen
+        description: "Wenn Sie unberührte, ursprüngliche Natur auf Madeira erleben wollen und trotzdem nicht auf den Adrenalin&shy;kick verzichten möchten, wagen Sie sich auf eine Canyoning-Tour. In Gruppen erkunden Sie den Wasserlauf eines Baches oder Flusses. Hierbei müssen Sie die teilweise tiefen Wasser&shy;stellen oder Wasser&shy;fälle durch Klettern, Springen, spezielle Paddelarten oder sogar Schwimmen meistern und genießen dabei spektakuläre Ausblicke."
+        link: "#poi-link"
+
+
+
+
+
+################################################################################
+
+
+
+- id: two
+  title: Winterurlaub ist auch Genussurlaub
+  nav-title: genuss
+  count: "2"
+  description: "Durch seine Insellage mitten im Atlantik ist der Ausblick auf den Ozean um Madeira schier unendlich. Mit seiner klaren, türkisblauen Farbe schimmert das Meer geheimnisvoll unter der Sonne und macht neugierig auf die vielen Geheimnisse, die unterhalb der Wasseroberfläche warten. Vor der Küste können Sie auf Bootsfahrt gehen und so die Insel aus einer völlig neuen Perspektive betrachten. Oder Sie wagen sich beim Tauchgang in die faszinierenden Tiefen zu einem der besten Tauchplätze&nbsp;Europas."
+  link: "#section-link"
+
+  pois:
+    items:
+
+      - id: two-first-poi
+        img: bg-img1
+        title: Königstour für Feinschmecker
+        description: "Die natürlichen Meeres&shy;schwimmbecken von Porto Moniz und Seixal sind ein besonderes Highlight. Diese von Lava&shy;gestein umrahmten Salzwasser-Schwimmbecken werden auf natürliche Weise vom Meer gespeist. Sie befinden sich an der Nordküste Madeiras und bieten eine erstklassige Sicht über den Atlantik und die sattgrünen Landschaften der Blumeninsel. Entspannen Sie bei einem Bad in diesen einzigartigen Schwimm&shy;becken und fühlen Sie sich eins mit der Natur."
+        link: "#poi-link"
+
+      - id: two-second-poi
+        img: bg-img2
+        title: Genusswege "Via Culinaria"
+        description: "Ein gemäßigtes Klima und eine Wasser&shy;temperatur von 17 - 24°C laden ganzjährig zu zahlreichen Aktivi&shy;täten im und auf dem Atlantik vor der Küste Madeiras ein. Im Norden finden Surfer ideale Bedingungen und womöglich die perfekte Welle. An der ruhigeren Südküste kommen dagegen Windsurfer und Stand-up-Paddler auf ihre Kosten. Ebenfalls ein beliebter Sport ist das Kanu&shy;fahren – auf eigene Faust oder bei geführten Touren. Beim Schnorcheln oder Tauchen vor der Küste entdecken Sie eine beein&shy;druckende Unter&shy;wasserwelt und sogar ein von Korallen bewachsenes Schiffswrack."
+        link: "#poi-link"
+
+      - id: two-third-poi
+        img: bg-img3
+        title: Gipfelrestaurants
+        description: "Dank einer Meerestiefe von mehr als 3.000 Metern beheimaten die Küsten&shy;gewässer vor Madeira eine vielfältige Fauna. Zahlreiche Fisch&shy;arten, Schild&shy;kröten und 28 verschiedene Wal- und Delfinarten tummeln sich in den Gewässern vor der Insel. Das ganze Jahr über können Sie hier zu einer Beobach&shy;tungs&shy;tour aufbrechen, um einige dieser eleganten Meeres&shy;säuger anzutreffen. Vor Madeira sind unter anderem Flecken&shy;delfine, Streifendelfine, Pottwale und Pilotwale heimisch."
+        link: "#poi-link"
+
+
+################################################################################
+
+
+
+- id: lifestyle
+  title: Erlbenisse abseits der alpinen Pisten
+  nav-title: erlebnisse
+  count: "3"
+  description: "Tauchen Sie auf den Madeira-Inseln ein in eine warmherzige, weltoffene Kultur. Die Menschen hier versprühen wahre Lebensfreude und möchten diese auch gern mit ihren Besuchern teilen. Das ganze Jahr über finden Festivals und Veranstaltungen statt, die die reiche Kultur der Madeirer feiern. Erleben Sie die Hauptstadt Funchal mit ihren Sehenswürdigkeiten und dem bunten Treiben in den Straßen, kosten Sie von der traditionellen Küche und genießen Sie mit einem Gläschen Madeira-Wein das süße&nbsp;Leben."
+  link: "#section-link"
+
+  pois:
+    items:
+
+      - id: three-first-poi
+        img: bg-img1
+        title: Winter-Romantik
+        description: "In der heimischen Küche Madeiras werden Sie die herzliche Seele und die Gastfreundschaft der Archipel&shy;bewohner herausschmecken. Dank der Nähe zum Meer erwarten Sie auf den Inseln erstklassige Fisch&shy;gerichte und Meeres&shy;früchte, wie gegrillte Napf&shy;schnecken, Thunfisch&shy;steaks und madeirensische Schwertfischfilets. Pro&shy;bieren Sie den traditionellen “Espatada“, ein Rin&shy;dfleisch&shy;spieß aus Lorbeer&shy;holz mit frittiertem Mais und dazu das typische “Bolodo-Caco“, ein Brot mit Knob&shy;lauch&shy;butter. Unverzichtbar ist auch der sündhaft köstliche, hausgemachte Honigkuchen."
+        link: "#poi-link"
+
+      - id: three-second-poi
+        img: bg-img2
+        title: "Rodeln und Schlittenfahren"
+        description: "Begeben Sie sich auf Madeira auf die Spuren der traditionellen Hand&shy;werks&shy;künste. Madeira-Stickerei ist eine Jahr&shy;hunderte alte Form des Kunst&shy;hand&shy;werks, die sich durch ihre hohe Qualität und beein&shy;druckenden Details aus&shy;zeich&shy;net. Stoffe wie Leinen oder Seide werden mit modernen und traditio&shy;nellen Mustern bestickt. Auch die Tradition des Madeira-Weins geht bereits über 500 Jahre zurück. Der Likörwein wird auf den Berg&shy;hängen der Insel angebaut und zeichnet sich durch sein besonderes Aroma und seinen einzig&shy;artigen Charakter aus, für den er auf der ganzen Welt beliebt ist."
+        link: "#poi-link"
+
+      - id: three-third-poi
+        img: bg-img3
+        title: Ballonfahren im Winter
+        description: "Funchal, die Hauptstadt der Inselgruppe, liegt in einer Bucht an der Südküste der Insel Madeira. Ihren Namen verdankt die Stadt dem Fenchel, der zu Beginn der Besiedlung als wildes Gewächs überall auf der Insel zu finden war. Funchal ist das größte touristische, gewerbliche und kulturelle Zentrum des gesamten Archipels. Hier erwartet Sie ein vielseitiges Angebot an Freizeit&shy;aktivitäten, von Museen und Monumenten, über Ausflüge zu den fantas&shy;tischen Gärten, bis hin zu einem Spaziergang am Yachthafen. Außerdem finden Sie in Funchal ein buntes Nacht&shy;leben in den zahlreichen Restaurants, Bars und Clubs."
+        link: "#poi-link"
+
+
+
+################################################################################
+
+
+
+- id: porto-santo
+  title: Hüttendörfer und Wellness
+  nav-title: "wellness"
+  count: "4"
+  description: "Porto Santo ist die zweitgrößte der zu Madeira gehörenden Inseln und befindet sich etwa 50 km nordöstlich vor der Hauptinsel. Dieses paradiesische Eiland ist vor allem für seinen wunderschönen, langen Sandstrand bekannt. Die schlichte Schönheit der Landschaft Porto Santos lädt aber auch zu Wanderungen oder Radtouren&nbsp;ein."
+  link: "#section-link"
+
+  pois:
+    items:
+
+      - id: four-first-poi
+        img: bg-img1
+        title: Thermen und Wellness
+        description: "Umspült vom türkisblauen, kristallklaren Meer finden Sie auf Porto Santo ein kleines Paradies für Sonnenanbeter. Der etwa 9 km lange, goldene Sandstrand nimmt fast die gesamte Südküste der kleinen Insel ein und wurde bereits zum besten Dünenstrand Portugals gewählt. Hier können Sie das ganze Jahr über schönes Wetter, die Sonne sowie das Meeresrauschen genießen und einfach mal die Seele baumeln lassen."
+        link: "#poi-link"
+
+      - id: four-second-poi
+        img: bg-img2
+        title: Hüttendörfer
+        description: "Porto Santos Gewässer sind wegen ihrer Sauberkeit, der angenehmen Temperatur und des klaren Wassers beliebt bei Tauchern. Hier können Sie eine hervorragende Sicht von bis zu 40 m Tiefe erleben. Zu den beliebtesten Spots gehören die gesunkenen Schiffe Madeirense und Corveta General Pereira d’Eça, die abgesenkt wurden, um künst&shy;liche Riffe zu schaffen. Hier tummelt sich eine arten&shy;reiche Mee&shy;res&shy;fauna mit dunklen Zacken&shy;barschen, Salemas, Königs&shy;fischen oder Amberjacks."
+        link: "#poi-link"
+
+      - id: four-third-poi
+        img: bg-img3
+        title: "Gastgeber zum Wohlfühlen"
+        description: "Neben seinem schönen Strand ist Porto Santo aber auch als Wellness- und Erholungsort bekannt. Der karbonat&shy;haltige Sand hat erwie&shy;sene, thera&shy;peu&shy;tische Eigen&shy;schaften. So soll sich ein Aufenthalt hier positiv auf orthopädische und rheumatische Probleme auswirken. Auch das Meer&shy;wasser von Porto Santo wird wegen seines hohen Anteils an Strontium, Chrom und Jod zu Therapie&shy;zwecken zum Beispiel in der Thalasso&shy;therapie verwendet. Sogar das Trink&shy;wasser dieser Insel ist reich an gesundheits&shy;fördernden Bestandteilen."
+        link: "#poi-link"

@@ -1,0 +1,24 @@
+# Site settings
+title: Salzburger Land
+client:
+  name: Blumeninsel mit einzigartiger Natur
+  link: "http://www.visitmadeira.pt"
+core-se-link: https://www.secretescapes.de/aktuelle-angebote
+description: >
+  Die Blumeninsel Madeira bezaubert dank ihrer Nähe zum Golfstrom durch ein ganzjährig mildes, mediterranes Klima und eine einzigartige Flora und Fauna.
+
+# file paths
+url:     "http://mp.secretescapes.com" # the base hostname & protocol for your site
+baseurl: "/de/2020/salzburger-land" # the subpath of your site, e.g. /blog/
+img:     "/de/2020/salzburger-land/_assets/img"
+css:     "/de/2020/salzburger-land/_assets/css"
+js:      "/de/2020/salzburger-land/_assets/js"
+
+
+# Build settings
+markdown: kramdown
+exclude: [node_modules, gulpfile.js, package.json, package-lock.json, js/script.js]
+keep_files: [_assets]
+sass:
+    sass_dir: css
+    style: compressed
